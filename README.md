@@ -23,3 +23,5 @@ CheckCurrentAzureStemcell.sh: returns the latest stemcell version
 
 DeleteVMandNetworkInterface.sh: using Azure CLI delete the VM and Network interface (dangerous)
 
+## Links to other good resources:
+https://github.com/haydonryan/cf-scripts/blob/master/README.md
